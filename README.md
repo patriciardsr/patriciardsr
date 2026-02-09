@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**patriciardsr/patriciardsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a bioinformatician at the UK Dementia Research Institute (Cardiff), working on Alzheimer’s disease genetics with a focus on long-read sequencing, complex variation, and reproducible analysis workflows.
 
-Here are some ideas to get you started:
+I care about **open, reproducible research**, clear documentation, and building tools and templates that make good practice the default — not the exception.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 What I work on
+- Long-read WGS (PacBio HiFi): SNVs, SVs, gene-complex regions  
+- GWAS & polygenic risk scores (pathway-level, disease stratification)
+- Multi-omics integration (genomics, transcriptomics, biomarkers)
+- HPC-scale, workflow-driven analysis
+
+---
+
+## 🌱 Current focus
+- Making long-read genomics analyses **transparent, inspectable, and reusable**
+- Creating **templates, examples, and training resources** for new starters
+
+---
+
+📌 Repositories here include analysis examples, templates, and tooling I actively use or recommend.
