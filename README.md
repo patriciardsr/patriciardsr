@@ -24,4 +24,7 @@ I care about **open, reproducible research**, clear documentation, and building 
 
 ---
 🔗 Team website: [AD-Genomics-Cardiff site](https://ukdri.github.io/AD-Genomics-Cardiff/)
+🔗 Personal Page: [Patricia R.S. Rodrigues](https://patriciardsr.github.io/portfolio/)
+
+
 
