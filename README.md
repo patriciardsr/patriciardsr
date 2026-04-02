@@ -21,3 +21,7 @@ I care about **open, reproducible research**, clear documentation, and building 
 ---
 
 📌 Repositories here include analysis examples, templates, and tooling I actively use or recommend.
+
+---
+🔗 Team website: [AD-Genomics-Cardiff site](https://ukdri.github.io/AD-Genomics-Cardiff/)
+
